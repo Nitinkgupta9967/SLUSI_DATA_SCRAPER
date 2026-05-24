@@ -42,7 +42,7 @@ Two CSV files are saved per district × cycle combination:
 
 | File | Description |
 |------|-------------|
-| `samples_<State>_<District>_<Cycle>.csv` | One row per soil sample per nutrient |
+| `samples_<State>_<District>_<Cycle>.csv` | one row per soil sample per nutrient |
 | `summary_<State>_<District>_<Cycle>.csv` | Low/Medium/High counts per nutrient |
 
 ### Sample columns
